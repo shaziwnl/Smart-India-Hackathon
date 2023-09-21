@@ -1,0 +1,12 @@
+.modules {
+    display: flex;
+    gap: 6rem;
+    flex-wrap: wrap;
+}
+
+.module {
+    border: solid 1px white;
+    border-radius: 10%;
+    width: 400px;
+    height: auto;
+}
